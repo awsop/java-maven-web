@@ -3,7 +3,7 @@
   <h2>Hello Hammad Siddiqui ?</h2>
 <h3>Welcome to Aws-DevOps|  AWS Solution Architect </h3>
   
-<marquee>Welcome to Cloud With DevOps</marquee>
+<marquee>Welcome to Aws With DevOps</marquee>
 
 <marquee direction="up">Welcome to Cloud With | DEVOPS </marquee>
 
