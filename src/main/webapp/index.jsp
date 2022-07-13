@@ -5,7 +5,7 @@
   
 <marquee>Welcome to Aws With DevOps</marquee>
 
-<marquee direction="up">Welcome to Cloud With | DEVOPS </marquee>
+<marquee direction="up">Welcome to JENKINS | DEVOPS </marquee>
 
 <marquee direction="down" width="250" height="200" behavior="alternate" style="border:solid">
   <marquee behavior="alternate">
